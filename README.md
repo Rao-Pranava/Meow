@@ -5,7 +5,7 @@ This repository is to recreate the Machine of HackTheBox Starting Point's Meow.
 
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/Rao-Pranava/Meow.git
 ```
 
 ## Commands to run the Docker file

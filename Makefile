@@ -17,4 +17,4 @@ All: Build Run
 Stop:
 	sudo docker stop telnet
 
-.PHONY: Help Build Run All
+.PHONY: Help Build Run All Stop

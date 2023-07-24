@@ -8,7 +8,17 @@ This repository is to recreate the Machine of HackTheBox Starting Point's Meow.
 git clone https://github.com/Rao-Pranava/Meow.git
 ```
 
-## Commands to run the Docker file
+2. Move into the Directory
+```
+cd Meow
+```
+
+3. Run the `Make` file.
+```
+make build
+```
+
+## Commands to run the Docker file Manually
 
 ```
 sudo docker build -t telnet .

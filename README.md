@@ -1,4 +1,4 @@
-# HackTheBox StartingPoint's Meow
+# HackTheBox Starting Point's Meow
 This repository is to recreate the Machine of HackTheBox Starting Point's Meow.
 
 ## Steps to Run the Machine

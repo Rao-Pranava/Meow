@@ -15,7 +15,7 @@ cd Meow
 
 3. Run the `Make` file.
 ```
-make build
+make All
 ```
 
 ## Commands to run the Docker file Manually
